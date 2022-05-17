@@ -1,0 +1,3 @@
+Mejico -> Ciudad de Mejico
+Panama -> Ciudad de Panama
+Valle -> Cali
